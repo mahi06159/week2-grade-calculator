@@ -1,0 +1,2 @@
+John Smith | Avg: 88.3 | Grade: B
+Sarah Johnson | Avg: 81.3 | Grade: B
